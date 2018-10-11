@@ -1,0 +1,16 @@
+{
+  "name": "heroku1",
+  "version": "1.0.0",
+  "description": "Simple App for HEroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.4",
+    "hbs": "~4.0.1"
+  }
+}
